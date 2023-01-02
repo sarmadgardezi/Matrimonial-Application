@@ -1,0 +1,11 @@
+html, root {
+    height: 100%;
+    background: rgba(0,0,0,0.2);
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}

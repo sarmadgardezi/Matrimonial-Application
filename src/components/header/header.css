@@ -1,0 +1,12 @@
+root {
+    width: '100%';
+}
+
+flex {
+    flex: 1;
+}
+
+menuButton {
+    margin-left: -12;
+    margin-right: 20;
+}

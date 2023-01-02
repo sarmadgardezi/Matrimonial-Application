@@ -1,2 +1,2 @@
-# Matrimonial-Application
+# aayushyagathi-web
 Matrimonial application in ReactJS
